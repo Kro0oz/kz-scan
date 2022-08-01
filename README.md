@@ -2,10 +2,11 @@
 
 ![Capture](https://user-images.githubusercontent.com/72355033/182109884-17fc38ce-3f62-45be-b0af-fae27292c9d1.PNG)                                  
                                   
-                                  kz scan is a fast server scanner to find 
-                              sql injection & lfl & brute.. bypass & & port server
-                                             And a lot of options...
-                                             -----------------------
+```
+             kz scan is a fast server scanner to find
+       sql injection & lfl & brute.. bypass & & port server
+                   And a lot of options..
+```
 
 [Usage](url)
 ```
